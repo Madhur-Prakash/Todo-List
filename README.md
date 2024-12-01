@@ -83,4 +83,10 @@ Ensure you have Python installed. You can download it from
 
 For any feedback or suggestions, feel free to reach out or open an issue in the repository.
 
+### For deeper understanding of the code visit
+[Simplifying CRUD Operations with Flask: A Practical Walkthrough - Medium](https://www.python.org/)
+
+## Tech Stack
+
+- Python(flask)
 
